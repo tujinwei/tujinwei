@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tujinwei
-- 👀 I’m interested in java js matlab R and in the furture maybe Python.
-- 🌱 I’m currently learning/struggling with matlab and java software modeling .
-- 💞️ I’m looking to collaborate on ...(anything)
-- 📫 How to reach me:  just send to 「jinwei.tu@tum.de」.
+- 👋 Hi there, this is @tujinwei
+- 👀 I’m enthusiastic about data analysis and AI use cases, such as scaled learning on images and credit scores.
+- 🌱 I’ve learnt matlab, java and R, recently palying with Python.
+- 💞️ WHAT would I be after the next five year? -- Maybe still me, maybe a higher me. Just a random thought.
+- 📫 How to reach me:  don't.
 
 <!---
 tujinwei/tujinwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
