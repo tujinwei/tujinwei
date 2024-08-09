@@ -1,7 +1,7 @@
-- 👋 Hi there, this is Davi Jinwei.
+- 👋 Hi there, this is Davi Jinwei, master student in Business Informatics at TUM.
 - 👀 I’m enthusiastic about data analysis and AI use cases, such as scaled learning on images and credit scores.
 - 🌱 I’ve learnt matlab, java and R, recently palying with Python.
-- 💞️ WHAT would I be after the next five year? -- Probably a bit uglier, probably poorer, but no doubt it is still me:). 
+- 💞️ WHAT would I be after the next five year? -- Probably a bit better looking, probably a bit uglier, but no doubt it is a real me but not me from another universe. You asked: How do I know? Because I must still remember my AppleID password! 
 - 📫 How to reach me:  david.jw.tu@gmail.com.
 
 <!---
