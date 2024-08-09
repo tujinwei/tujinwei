@@ -1,4 +1,4 @@
-- 👋 Welcome! This is Jinwei (David). I am studying master in Business Informatics at Technical University of Munich(🥮+🥨).
+- 👋 Welcome! This is Jinwei (David). I am studying master in Business Informatics at Technical University of Munich (🥮+🥨).
 - 🔥 I’m enthusiastic about data analysis and AI use cases, especially in time series and risk management. 
 - 🐱‍💻 MATLAB, JAVA, R, Python. ML project experience with Python. See my [Kaggle page](https://www.kaggle.com/jinweitu).
 - 🚀 What would I be in five year? -- Probably a bit better looking, probably a bit uglier, but no doubt it is a real me but not me from another universe. You asked: How do I know? Because I must still remember my AppleID password! 
